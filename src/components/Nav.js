@@ -14,7 +14,7 @@ export default class Nav extends React.Component {
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item">
-              <span class="nav-link"> <NavLink to="/">Home</NavLink></span>
+              <span class="nav-link"> <NavLink to="/cs6460">Home</NavLink></span>
             </li>
             <li class="nav-item">
               <span class="nav-link"><NavLink to="/basiccourse">Basic Course</NavLink></span>

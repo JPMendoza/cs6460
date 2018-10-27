@@ -22,7 +22,7 @@ class App extends Component {
         <div class="container">
           <Nav/>
           <Switch>
-            <Route exact path="/" component={Home}/>
+            <Route exact path="/cs6460" component={Home}/>
             <Route path="/basiccourse/:param1?" component={BasicCourse}/>
             <Route path="/funfacts" component={FunFacts}/>
             <Route component={Error}/>
