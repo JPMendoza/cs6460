@@ -31,7 +31,7 @@ export default class BasicCourse extends React.Component {
          <ul class="nav flex-column">
             <li class="nav-item">
               <span class="nav-link active" >
-               <NavLink to="/basiccourse/">Overview</NavLink>
+               <NavLink to="/basiccourse">Overview</NavLink>
               </span>
             </li>
             <li class="nav-item">

@@ -18,11 +18,11 @@ class App extends Component {
   render() {
 
     return (
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <div class="container">
           <Nav/>
           <Switch>
-            <Route exact path="/cs6460" component={Home}/>
+            <Route exact path='/' component={Home}/>
             <Route path="/basiccourse/:param1?" component={BasicCourse}/>
             <Route path="/funfacts" component={FunFacts}/>
             <Route component={Error}/>
