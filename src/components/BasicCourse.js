@@ -25,36 +25,36 @@ export default class BasicCourse extends React.Component {
   }
   render() {
     return (
-       <div class="container-fluid">
-       <div class="row">
-         <div>
-         <ul class="nav flex-column">
-            <li class="nav-item">
-              <span class="nav-link active" >
-               <NavLink to="/basiccourse">Overview</NavLink>
-              </span>
-            </li>
-            <li class="nav-item">
-             <span class="nav-link active" >
-              <NavLink to="/basiccourse/nutrition">Nutrition</NavLink>
-             </span>
-            </li>
-            <li class="nav-item">
-              <span class="nav-link active" >
-                <NavLink to="/basiccourse/cooking">Cooking</NavLink>
-              </span>
-            </li>
-            <li class="nav-item">
-              <span class="nav-link active" >
-                <NavLink to="/basiccourse/exercise">Exercise</NavLink>
-              </span>
-            </li>
-          </ul>
+       <div class="container">
+         <div class="row">
+           <div class="col-sm-2">
+             <ul class="nav flex-column">
+                <li class="nav-item">
+                  <span class="nav-link active" >
+                   <NavLink to="/basiccourse">Overview</NavLink>
+                  </span>
+                </li>
+                <li class="nav-item">
+                 <span class="nav-link active" >
+                  <NavLink to="/basiccourse/nutrition">1) Nutrition</NavLink>
+                 </span>
+                </li>
+                <li class="nav-item">
+                  <span class="nav-link active" >
+                    <NavLink to="/basiccourse/cooking">2) Cooking</NavLink>
+                  </span>
+                </li>
+                <li class="nav-item">
+                  <span class="nav-link active" >
+                    <NavLink to="/basiccourse/exercise">3) Exercise</NavLink>
+                  </span>
+                </li>
+              </ul>
+            </div>
+            <div class="col-sm-10">
+              {renderPage(this.props.match.params.param1)}
+            </div>
           </div>
-          <div>
-            {renderPage(this.props.match.params.param1)}
-          </div>
-        </div>
        </div>
 
     );

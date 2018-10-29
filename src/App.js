@@ -10,6 +10,7 @@ import Home from "./components/Home"
 import BasicCourse from "./components/BasicCourse"
 import FunFacts from "./components/FunFacts"
 import Error from "./components/Error"
+import References from "./components/References"
 import Nav from "./components/Nav"
 
 
@@ -25,6 +26,7 @@ class App extends Component {
             <Route exact path='/' component={Home}/>
             <Route path="/basiccourse/:param1?" component={BasicCourse}/>
             <Route path="/funfacts" component={FunFacts}/>
+            <Route path="/references" component={References}/>
             <Route component={Error}/>
           </Switch>
         </div>

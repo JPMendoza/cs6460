@@ -22,6 +22,9 @@ export default class Nav extends React.Component {
             <li class="nav-item dropdown">
               <span class="nav-link"><NavLink to="/funfacts">Fun Facts</NavLink></span>
             </li>
+            <li class="nav-item dropdown">
+              <span class="nav-link"><NavLink to="/references">References</NavLink></span>
+            </li>
             <li class="nav-item">
               <a class="nav-link disabled" href="#">Coming soon</a>
             </li>
