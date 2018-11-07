@@ -1,9 +1,23 @@
+
+import Outline from "../Outline";
+import Topics from "../Topics";
 import React from "react";
 
 export default class Nutrition extends React.Component {
   render() {
+    let outline = [
+      { name: "Challenge your current knowledge on nutrition", point:
+        [{name: "Identifying what is nutrition", point: [1]},
+          {name: "Identifying what is nutrition", point: [1,2]}] },
+      { name: "Challenge your current knowledge on nutrition", point:
+        [{name: "Identifying what is nutrition", point: []}] },
+      { name: "Challenge your current knowledge on nutrition", point:
+        [{name: "Identifying what is nutrition", point: []}]  }
+    ];
     return (
+
        <div style={{paddingTop: "8px"}}>Nutrition <br/>
+
        <hr/>
          Nutrition Learning objectives: <br/>
             &nbsp; By the end of this course you should be able to <br/>
@@ -28,6 +42,7 @@ export default class Nutrition extends React.Component {
               <div class="card-body">
                 In app coming Soon <br/>please see link
                 <a target="blank" href="https://docs.google.com/document/d/1IlmxbuuUtwV08SU8MQhkUe_hHxANUtFBi_wG5MU_47o"> outline </a>
+                <Outline outline={outline}/>
               </div>
             </div>
           </div>
@@ -46,20 +61,7 @@ export default class Nutrition extends React.Component {
                 </div>
             </div>
           </div>
-          <div class="card">
-            <div class="card-header" id="headingThree">
-              <h5 class="mb-0">
-                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                  Topic 1
-                </button>
-              </h5>
-            </div>
-            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-              <div class="card-body">
-                Comming soon
-              </div>
-            </div>
-          </div>
+          <Topics />
         </div>
        </div>
     );
