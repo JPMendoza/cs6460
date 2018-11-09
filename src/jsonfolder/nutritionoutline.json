@@ -1,0 +1,31 @@
+[
+  { "name": "Challenge your current knowledge on nutrition", "point":
+    [{"name": "Take a quiz", "point": []}] },
+  { "name": "Identifying what is nutrition", "point":
+    [
+      {"name": "Carbohydrates", "point": []},
+      {"name": "Fats", "point": []},
+      {"name": "Proteins", "point": []},
+      {"name": "Vitamins", "point": []},
+      {"name": "Minerals ", "point": []},
+      {"name": "Organic vs inorganic nutrients ", "point": []}
+    ] },
+  { "name": "Assessing your nutrition", "point":
+    [
+      {"name": "Diet planning", "point": ["Types of diets"]},
+      {"name": "Metabolism", "point": []},
+      {"name": "Determining how much you need to consume", "point": []},
+      {"name": "Reading food labels and understand what they mean", "point": []}
+    ]
+  },
+  { "name": "Finding reliable Nutrition information ", "point":
+    [
+      {"name": "Testimonials", "point": []},
+      {"name": "Scientific method", "point": []},
+      {"name": "Peer-review", "point": []}
+    ]
+  },
+  { "name": "References", "point":
+    []
+  }
+]

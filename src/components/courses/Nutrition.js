@@ -2,18 +2,11 @@
 import Outline from "../Outline";
 import Topics from "../Topics";
 import React from "react";
+import nutritionoutline from '../../jsonfolder/nutritionoutline.json';
 
 export default class Nutrition extends React.Component {
   render() {
-    let outline = [
-      { name: "Challenge your current knowledge on nutrition", point:
-        [{name: "Identifying what is nutrition", point: [1]},
-          {name: "Identifying what is nutrition", point: [1,2]}] },
-      { name: "Challenge your current knowledge on nutrition", point:
-        [{name: "Identifying what is nutrition", point: []}] },
-      { name: "Challenge your current knowledge on nutrition", point:
-        [{name: "Identifying what is nutrition", point: []}]  }
-    ];
+    let outline = nutritionoutline;
     return (
 
        <div style={{paddingTop: "8px"}}>Nutrition <br/>
@@ -40,8 +33,6 @@ export default class Nutrition extends React.Component {
 
             <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
               <div class="card-body">
-                In app coming Soon <br/>please see link
-                <a target="blank" href="https://docs.google.com/document/d/1IlmxbuuUtwV08SU8MQhkUe_hHxANUtFBi_wG5MU_47o"> outline </a>
                 <Outline outline={outline}/>
               </div>
             </div>

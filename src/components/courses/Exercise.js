@@ -1,7 +1,11 @@
 import React from "react";
+import Outline from "../Outline";
+import Topics from "../Topics";
+import exerciseoutline from '../../jsonfolder/exerciseoutline.json';
 
 export default class Exercise extends React.Component {
   render() {
+    let outline = exerciseoutline;
     return (
        <div style={{paddingTop: "8px"}}>Exercise <br/>
 
@@ -27,8 +31,7 @@ export default class Exercise extends React.Component {
 
                <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
                  <div class="card-body">
-                   In app coming Soon <br/>please see link
-                   <a target="blank" href="https://docs.google.com/document/d/1E4quM4h0yG1gTNpV3_8dBTUGYRbQO-cVy4yaQhTeJts/edit"> outline </a>
+                   <Outline outline={outline}/>
                  </div>
                </div>
              </div>

@@ -1,0 +1,34 @@
+[
+  { "name": "Challenge your current knowledge on Cooking and Food Prep", "point":
+    [{"name": "Take a quiz", "point": []}] },
+  { "name": "Basic cooking tools for a common kitchen", "point":
+    [
+      {"name": "Pots", "point": []},
+      {"name": "Pans", "point": []},
+      {"name": "spatulas", "point": []},
+      {"name": "Knives", "point": []},
+      {"name": "Thermometers ", "point": []}
+    ] },
+  { "name": "Shopping for foods and food storage storage", "point":
+    [
+      {"name": "Meats", "point": ["Poultry","Beef, Pork, etc","Seafood"]},
+      {"name": "Fruits and vegetables", "point": []},
+      {"name": "Gains and Rice", "point": []}
+    ]
+  },
+  { "name": "Cooking ", "point":
+    [
+      {"name": "Proper food prep", "point": ["Handling food"]},
+      {"name": "Common cooking methods", "point": ["Frying","Stewing","Baking","Grilling","Steaming","Smoking"]}
+
+    ]
+  },
+  { "name": "Common recipes", "point":
+    [{"name": "Breakfasts", "point": []},
+     {"name": "Lunch", "point": []},
+     {"name": "Dinners", "point": []}]
+  },
+  { "name": "References", "point":
+    []
+  }
+]

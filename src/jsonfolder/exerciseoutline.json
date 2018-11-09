@@ -1,0 +1,29 @@
+[
+  { "name": "Challenge your current knowledge on Exercise", "point":
+    [{"name": "Take a quiz", "point": []}] },
+  { "name": "What is Exercise", "point":
+    [
+      {"name": "aerobic ", "point": []},
+      {"name": "anaerobic", "point": []},
+      {"name": "Heart Rate ranges", "point":
+        ["Max heart rate","Peak heart rate","Cardio heart rate","fat burn heart rate"]}
+    ] },
+  { "name": "How often you should be working out", "point":
+    [
+      {"name": "For Men", "point": []},
+      {"name": "For Women", "point": []},
+      {"name": "Cardio", "point": []},
+      {"name": "Resistance", "point": []}
+    ]
+  },
+  { "name": "Basic workout routines ", "point":
+    [
+      {"name": "Circuit Training", "point": []},
+      {"name": "Lifting", "point": []},
+      {"name": "HIIT - High Intensity Interval Training ", "point": []}
+    ]
+  },
+  { "name": "References", "point":
+    []
+  }
+]

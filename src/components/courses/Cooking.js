@@ -1,7 +1,11 @@
 import React from "react";
+import Outline from "../Outline";
+import Topics from "../Topics";
+import cookingoutline from '../../jsonfolder/cookingoutline.json';
 
 export default class Cooking extends React.Component {
   render() {
+    let outline = cookingoutline;
     return (
        <div style={{paddingTop: "8px"}}>Cooking <br/>
        <hr/>
@@ -28,8 +32,7 @@ export default class Cooking extends React.Component {
 
                <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
                  <div class="card-body">
-                   In app coming Soon <br/>please see link
-                   <a target="blank" href="https://docs.google.com/document/d/1mqbL4fvwKShBYXmfs3ObHnYtdFjceATNYHvDTIJLmyE"> outline </a>
+                   <Outline outline={outline}/>
                  </div>
                </div>
              </div>
