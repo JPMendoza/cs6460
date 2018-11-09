@@ -3,10 +3,12 @@ import Outline from "../Outline";
 import Topics from "../Topics";
 import React from "react";
 import nutritionoutline from '../../jsonfolder/nutritionoutline.json';
+import nutritiontopics from '../../jsonfolder/nutritiontopics.json';
 
 export default class Nutrition extends React.Component {
   render() {
     let outline = nutritionoutline;
+    let topics = nutritiontopics;
     return (
 
        <div style={{paddingTop: "8px"}}>Nutrition <br/>
@@ -52,7 +54,11 @@ export default class Nutrition extends React.Component {
                 </div>
             </div>
           </div>
-          <Topics />
+          {topics.map(topic => (
+            <div>
+              <Topics topic={topic.Topic} content={topic.Content} />
+            </div>
+          ))}
         </div>
        </div>
     );

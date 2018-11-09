@@ -9,16 +9,16 @@ export default class Topics extends React.Component {
     return (
        <div>
          <div class="card">
-           <div class="card-header" id="headingThree">
+           <div class="card-header" id={this.props.topic.replace(/ /g,'')+"header"}>
              <h5 class="mb-0">
-               <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                 Topic test
+               <button class="btn btn-link collapsed" data-toggle="collapse" data-target={"#"+this.props.topic.replace(/ /g,'')+"collapse"} aria-expanded="false" aria-controls="collapseThree">
+                 {this.props.topic}
                </button>
              </h5>
            </div>
-           <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+           <div id={this.props.topic.replace(/ /g,'')+"collapse"} class="collapse" aria-labelledby={this.props.topic.replace(/ /g,'')+"header"} data-parent="#accordion">
              <div class="card-body">
-               Comming soon
+               {this.props.content}
              </div>
            </div>
          </div>
