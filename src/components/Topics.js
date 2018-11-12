@@ -1,11 +1,11 @@
 import React from "react";
+import Subtopics from "./Subtopics.js"
 
 export default class Topics extends React.Component {
   constructor(props) {
     super(props);
   }
   render() {
-
     return (
        <div>
          <div class="card">
@@ -18,7 +18,15 @@ export default class Topics extends React.Component {
            </div>
            <div id={this.props.topic.replace(/ /g,'')+"collapse"} class="collapse" aria-labelledby={this.props.topic.replace(/ /g,'')+"header"} data-parent="#accordion">
              <div class="card-body">
-               {this.props.content}
+               {this.props.content.map(c => (
+                 <div>
+                    <p> {c.info} </p>
+                    <p> {c.ref ? "Reference: " + c.ref : ""} </p>
+
+                 </div>
+
+               ))}
+               <Subtopics subtopics={this.props.subtopics}/>
              </div>
            </div>
          </div>

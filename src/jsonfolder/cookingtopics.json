@@ -1,0 +1,83 @@
+[
+  {"topic": "Basic cooking tools for a common kitchen",
+    "content": [
+      {"info":"",
+       "ref": ""
+      }
+    ],
+    "subtopics": [
+      {"title": "Pots",
+       "parts": [],
+       "ref": ""},
+      {"title": "Pans",
+       "parts": [],
+       "ref": ""},
+      {"title": "spatulas",
+       "parts": [],
+       "ref": ""},
+      {"title": "Knives",
+       "parts": [],
+       "ref": ""},
+      {"title": "Thermometers",
+       "parts": [],
+       "ref": ""}
+      ] },
+  {"topic": "Shopping for foods and food storage storage",
+   "content": [
+   {"info":"A nutritional assessment is used to determine the nutritional status of a person or group of people.",
+    "ref": ""
+   }
+   ],
+   "subtopics": [
+    {"title": "Meats ",
+     "parts": ["Poultry","Pork","etc"],
+     "ref": ""},
+    {"title": "Seafood",
+     "parts": [],
+     "ref": ""},
+    {"title": "Fruits and vegetables",
+     "parts": [],
+     "ref": ""},
+    {"title": "Gains and Rice",
+     "parts": [],
+     "ref": ""}
+   ]
+  },
+  {"topic": "Cooking ",
+   "content": [
+   {"info":"A nutritional assessment is used to determine the nutritional status of a person or group of people.",
+    "ref": ""
+   }
+   ],
+   "subtopics": [
+    {"title": "Proper food prep",
+     "parts": ["Handling food"],
+     "ref": ""},
+    {"title": "Common cooking methods",
+     "parts": ["Frying","Stewing","Baking","Grilling","Steaming"],
+     "ref": ""},
+    {"title": "Peer-review",
+     "parts": [],
+     "ref": ""}
+   ]
+ },
+ {"topic": "Common recipes",
+  "content": [
+  {"info":"",
+   "ref": ""
+  }
+  ],
+  "subtopics": [
+   {"title": "Breakfasts",
+    "parts": [""],
+    "ref": ""},
+   {"title": "Lunch",
+    "parts": [],
+    "ref": ""},
+   {"title": "Peer-review",
+    "parts": [],
+    "ref": ""}
+  ]
+ }
+
+]

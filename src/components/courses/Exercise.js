@@ -2,10 +2,11 @@ import React from "react";
 import Outline from "../Outline";
 import Topics from "../Topics";
 import exerciseoutline from '../../jsonfolder/exerciseoutline.json';
-
+import exercisetopics from '../../jsonfolder/exercisetopics.json';
 export default class Exercise extends React.Component {
   render() {
     let outline = exerciseoutline;
+    let topics = exercisetopics;
     return (
        <div style={{paddingTop: "8px"}}>Exercise <br/>
 
@@ -50,7 +51,11 @@ export default class Exercise extends React.Component {
                    </div>
                </div>
              </div>
-             <Topics topic="test Topic" content="blah blah blah" />
+             {topics.map(topic => (
+               <div>
+                 <Topics topic={topic.topic} content={topic.content} subtopics={topic.subtopics} />
+               </div>
+             ))}
            </div>
 
        </div>

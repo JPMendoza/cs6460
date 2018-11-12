@@ -1,0 +1,89 @@
+[
+  {"topic": "What is Exercise",
+    "content": [
+    {"info":"",
+     "ref": "test"
+    }
+    ],
+    "subtopics": [
+      {"title": "aerobic ",
+       "parts": [],
+       "ref": ""},
+      {"title": "anaerobic",
+       "parts": [],
+       "ref": ""}
+      ] },
+  {"topic": "How often you should be working out",
+   "content": [
+   {"info":"",
+    "ref": ""
+   }
+   ],
+   "subtopics": [
+    {"title": "For Men",
+     "parts": [],
+     "ref": ""},
+    {"title": "For Women",
+     "parts": [],
+     "ref": ""},
+    {"title": "Cardio",
+     "parts": [],
+     "ref": ""},
+    {"title": "Resistance",
+     "parts": [],
+     "ref": ""}
+   ]
+  },
+  {"topic": "Basic workout routines",
+   "content": [
+   {"info":"",
+    "ref": ""
+   }
+   ],
+   "subtopics": [
+    {"title": "Circuit Training",
+     "parts": [],
+     "ref": ""},
+    {"title": "Lifting",
+     "parts": [],
+     "ref": ""},
+    {"title": "HIIT",
+     "parts": [],
+     "ref": ""}
+   ]
+  },
+  {"topic": "How often you should be working out",
+   "content": [
+   {"info":"",
+    "ref": ""
+   }
+   ],
+   "subtopics": [
+    {"title": "For Men",
+     "parts": [],
+     "ref": ""},
+    {"title": "For Women",
+     "parts": [],
+     "ref": ""},
+    {"title": "Cardio",
+     "parts": [],
+     "ref": ""},
+    {"title": "Resistance",
+     "parts": [],
+     "ref": ""}
+   ]
+  },
+  {"topic": "Understanding your body",
+   "content": [
+   {"info":"",
+    "ref": ""
+   }
+   ],
+   "subtopics": [
+    {"title": "Feeling Sore vs Feeling hurt",
+     "parts": [],
+     "ref": ""}
+   ]
+  }
+
+]

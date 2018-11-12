@@ -56,7 +56,7 @@ export default class Nutrition extends React.Component {
           </div>
           {topics.map(topic => (
             <div>
-              <Topics topic={topic.Topic} content={topic.Content} />
+              <Topics topic={topic.topic} content={topic.content} subtopics={topic.subtopics} />
             </div>
           ))}
         </div>

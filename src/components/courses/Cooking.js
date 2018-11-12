@@ -2,10 +2,11 @@ import React from "react";
 import Outline from "../Outline";
 import Topics from "../Topics";
 import cookingoutline from '../../jsonfolder/cookingoutline.json';
-
+import cookingtopics from '../../jsonfolder/cookingtopics.json';
 export default class Cooking extends React.Component {
   render() {
     let outline = cookingoutline;
+    let topics = cookingtopics;
     return (
        <div style={{paddingTop: "8px"}}>Cooking <br/>
        <hr/>
@@ -52,7 +53,11 @@ export default class Cooking extends React.Component {
                </div>
              </div>
 
-             <Topics topic="test Topic" content="blah blah blah" />
+             {topics.map(topic => (
+               <div>
+                 <Topics topic={topic.topic} content={topic.content} subtopics={topic.subtopics} />
+               </div>
+             ))}
            </div>
        </div>
     );
