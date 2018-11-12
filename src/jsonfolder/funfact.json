@@ -1,0 +1,8 @@
+[
+  {"fact": "this is a test",
+   "reference": "this is a reference"},
+  {"fact": "this is a test2",
+   "reference": "this is a reference2"},
+  {"fact": "this is a test3",
+   "reference": "this is a reference3"}
+]
