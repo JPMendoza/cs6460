@@ -1,0 +1,21 @@
+[
+  { "listname": "nutrition",
+    "list": [
+    "test1",
+    "test2",
+    "test3"
+  ]},
+  { "listname": "food",
+    "list": [
+    "asdf1",
+    "asdf2",
+    "asdf3"
+    ]},
+  { "listname": "exercise",
+    "list": [
+    "blah",
+    "blah",
+    "blah"
+
+    ]}
+]

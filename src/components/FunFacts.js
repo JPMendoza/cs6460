@@ -1,8 +1,6 @@
 import React from "react";
 import funfact from '../jsonfolder/funfact.json';
 
-
-
 export default class FunFacts extends React.Component {
   constructor(props) {
     super(props);
@@ -11,21 +9,17 @@ export default class FunFacts extends React.Component {
     // This binding is necessary to make `this` work in the callback
     this.facts = funfact;
     this.state = {fact: funfact[0]};
-    console.log(this.facts);
-    console.log("array position is " + this.facts.indexOf(this.state.fact));
     this.previous = this.previous.bind(this);
     this.random = this.random.bind(this);
     this.next = this.next.bind(this);
   }
   previous() {
-    console.log("Previous was clicked");
     if (this.facts.indexOf(this.state.fact) > 0) {
       let pv = this.facts.indexOf(this.state.fact) -1
       this.setState({fact: funfact[pv]});
     }
   }
   random() {
-    console.log("Random was clicked");
     let currentIndex = this.facts.indexOf(this.state.fact);
     let randomNum =  Math.floor(Math.random()*this.facts.length);
     while (currentIndex == randomNum) {
@@ -34,17 +28,12 @@ export default class FunFacts extends React.Component {
     this.setState({fact: funfact[randomNum]});
   }
   next() {
-    console.log("Random was clicked");
     if (this.facts.indexOf(this.state.fact) < this.facts.length-1) {
       let nt = this.facts.indexOf(this.state.fact)+1;
       this.setState({fact: funfact[nt]});
     }
   }
   render() {
-    const center = {
-      marginLeft: "auto",
-      marginRight: "auto" // 'ms' is the only lowercase vendor prefix
-    };
     return (
        <div style= {{textAlign: 'center'}}>
           <h1>Fun Facts</h1><hr/>

@@ -10,7 +10,11 @@ export default class Index extends React.Component {
 
           This course purpose is to give a baseline understanding of each subject. <br/>
           Each subject will have Links to the source material, please feel free to explore <br/>
-          the source materal as you see fit.
+          the source materal as you see fit.<br/><br/>
+
+          <font size="3" color="red">Caution:</font> <br/>
+          Before starting any diet plan and or exercise regiement please consult
+          a licensed medical professional before you do.
 
 
 
