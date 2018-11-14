@@ -1,5 +1,6 @@
 import React from "react";
 import funfact from '../jsonfolder/funfact.json';
+import putLink from './HelperFunctions.js';
 
 export default class FunFacts extends React.Component {
   constructor(props) {
@@ -12,6 +13,8 @@ export default class FunFacts extends React.Component {
     this.previous = this.previous.bind(this);
     this.random = this.random.bind(this);
     this.next = this.next.bind(this);
+    this.first = this.first.bind(this);
+    this.last = this.last.bind(this);
   }
   previous() {
     if (this.facts.indexOf(this.state.fact) > 0) {
@@ -33,23 +36,34 @@ export default class FunFacts extends React.Component {
       this.setState({fact: funfact[nt]});
     }
   }
+  first() {
+        this.setState({fact: funfact[0]});
+  }
+  last() {
+     this.setState({fact: funfact[this.facts.length-1]});
+  }
   render() {
     return (
        <div style= {{textAlign: 'center'}}>
           <h1>Fun Facts</h1><hr/>
-
-          <div class="container-fluid" style= {{width: '50%',margin: 'auto',textAlign: 'center'}}>
+          (These facts are in no partular order)
+          <div class="container" style= {{width: '70%',margin: 'auto',textAlign: 'center'}}>
             <div class="row">
-              <h3 class="col"> {this.state.fact.fact} </h3>
+              <div class="col">
+                <button class="btn btn-default " onClick={this.first}>First</button> &nbsp;
+                <button class="btn btn-info " onClick={this.previous} >Previous</button> &nbsp;
+                <button class="btn btn-warning " onClick={this.random}>Random</button> &nbsp;
+                <button class="btn btn-success " onClick={this.next}>Next</button> &nbsp;
+                <button class="btn btn-default " onClick={this.last} >Last</button> &nbsp;
+              </div>
+            </div>
+            <br/>
+            <div class="row">
+              <h5 class="col"> {this.state.fact.fact} </h5>
 
             </div>
             <div class="row">
-              <p class="col"> {this.state.fact.reference} </p>
-            </div>
-            <div class="row">
-              <button class="btn btn-info col" onClick={this.previous} >Previous</button> &nbsp;
-              <button class="btn btn-warning col" onClick={this.random}>Random</button> &nbsp;
-              <button class="btn btn-success col" onClick={this.next}>Next</button> &nbsp;
+              <p class="col"> {putLink(this.state.fact.reference)} </p>
             </div>
 
           </div>

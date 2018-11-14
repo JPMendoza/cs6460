@@ -1,8 +1,40 @@
 [
-  {"fact": "this is a test",
-   "reference": "this is a reference"},
-  {"fact": "this is a test2",
-   "reference": "this is a reference2"},
-  {"fact": "this is a test3",
-   "reference": "this is a reference3"}
+  {"fact": "One pound of fat could contain anywhere between 2,843 and 3,752 calories",
+   "reference": "http://www.zoeharcombe.com/standalone/1lb-does-not-equal-3500-calories/"},
+  {"fact": "MSG (Monosodium glutamate isn't bad for you)",
+   "reference": "https://dash.harvard.edu/handle/1/8846733"},
+  {"fact": "Your fat-burning range is 60% to 70% of your max heart rate. (Max Heart Rate = 220 – your age)",
+   "reference": "https://blog.myfitnesspal.com/how-target-your-heart-rate-get-into-the-fat-burning-zone/"},
+  {"fact": "You cannot cook off all the alcohol when cooking with it.",
+  "reference": "https://www.sciencedirect.com/science/article/pii/S1878450X16300427"},
+  {"fact": "According to the US Dietary Guidelines: Moderate-intensity physical activity: Aerobic activity that increases a person’s heart rate and breathing to some extent. On a scale relative to a person’s capacity, moderate-intensity activity is usually a 5 or 6 on a 0 to 10 scale. Brisk walking, dancing, swimming, or bicycling on a level terrain are examples.",
+   "reference": "https://health.gov/dietaryguidelines/2015/guidelines/appendix-1/"},
+  {"fact": "From highest to lowest beef grades are, Prime, Choice, Selects",
+   "reference": "https://tinyurl.com/ydb3ykfw"},
+  {"fact": "After cooking your meat, you should let it rest some where between 10-20 minutes to allow the moisture to redistribute back throught the meat",
+   "reference": "https://www.thekitchn.com/food-science-resting-meat-46678"},
+  {"fact": "Meat will continue to cook short peroid of time when it is taken out of the oven",
+   "reference": "https://www.thekitchn.com/food-science-resting-meat-46678"},
+  {"fact": "Strength training could help build strong bones and has been linked to a lower risk of osteoporosis.",
+   "reference": "https://go4life.nia.nih.gov/exercising-with-chronic-conditions-heart-disease-diabetes-arthritis-and-osteoporosis/"},
+  {"fact": "While sitting, study subjects burned 80 calories/hour — about the same as typing or watching TV. While standing, the number of calories burned was only slightly higher than while sitting — about 88 calories/hour",
+  "reference": "https://www.health.harvard.edu/blog/the-truth-behind-standing-desks-2016092310264"},
+  {"fact": "vitamin C does does not help in fighting the common cold",
+   "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3928210/"
+  },
+  {"fact": "Nutrition Facts labels are not always factual. The law allows a pretty lax margin of error—up to 20 percent",
+   "reference": "https://health.usnews.com/health-news/blogs/eat-run/2012/08/21/when-nutrition-labels-lie"
+  },
+  {"fact": "",
+   "reference": ""
+  },
+  {"fact": "",
+   "reference": ""
+  },
+  {"fact": "",
+   "reference": ""
+  },
+  {"fact": "",
+   "reference": ""
+  }
 ]

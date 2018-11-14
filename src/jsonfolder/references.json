@@ -1,21 +1,42 @@
 [
-  { "listname": "nutrition",
+  { "listname": "Nutrition",
     "list": [
-    "test1",
-    "test2",
-    "test3"
+    "https://www.cnpp.usda.gov/dietary-guidelines",
+    "https://www.usda.gov/topics/food-and-nutrition",
+    "https://www.ers.usda.gov/webdocs/publications/42215/5831_aib750b_1_.pdf",
+    "https://www.ers.usda.gov/webdocs/publications/42215/5831_aib750b_1_.pdf",
+    "https://www.medicalnewstoday.com/articles/160774.php ",
+    "https://health.gov/dietaryguidelines/2015/guidelines/",
+    "https://dsld.nlm.nih.gov/dsld/",
+    "https://www.cnpp.usda.gov/USDAFoodPatterns",
+    "https://health.gov/dietaryguidelines/1980thin.pdf",
+    "https://health.gov/dietaryguidelines/1985thin.pdf",
+    "https://health.gov/dietaryguidelines/1990thin.pdf",
+    "https://health.gov/dietaryguidelines/dga2000/document/summary/default.htm",
+    "https://health.gov/dietaryguidelines/dga95/",
+    "https://health.gov/dietaryguidelines/dga2005/document/default.htm",
+    "https://health.gov/dietaryguidelines/dga2010/DietaryGuidelines2010.pdf",
+    "https://www.fda.gov/food/labelingnutrition/ucm274593.htm",
+    ""
   ]},
-  { "listname": "food",
+  { "listname": "Food",
     "list": [
-    "asdf1",
-    "asdf2",
-    "asdf3"
+    "https://www.studential.com/university/student-cooking/cooking-methods",
+    "https://www.fns.usda.gov/tn/resource-library",
+    "https://dsld.nlm.nih.gov/dsld/lstIngredients.jsp",
+    "http://www.nationalschools.com/workshops/",
+    "https://www.foodsafety.gov/keep/charts/mintemp.html",
+    ""
     ]},
-  { "listname": "exercise",
+  { "listname": "Exercise",
     "list": [
-    "blah",
-    "blah",
-    "blah"
+    "https://www.cdc.gov/cancer/dcpc/prevention/policies_practices/physical_activity/guidelines.htm",
+    "https://health.gov/dietaryguidelines/2015/guidelines/appendix-1/",
+    "https://health.gov/paguidelines/guidelines/",
+    "https://health.gov/paguidelines/guidelines/appendix1.aspx",
+    "https://blog.myfitnesspal.com/6-exercises-everyone/",
+    "https://blog.myfitnesspal.com/how-target-your-heart-rate-get-into-the-fat-burning-zone/",
+    "https://www.onhealth.com/content/1/muscle_soreness"
 
     ]}
 ]
