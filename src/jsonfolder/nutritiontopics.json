@@ -1,25 +1,46 @@
 [
   {"topic": "Identifying what is nutrition",
     "content": [
-    {"info":"Nutrition, nourishment, or aliment, is the supply of materials - food - required by organisms and cells to stay alive. In science and human medicine, nutrition is the science or practice of consuming and utilizing foods.",
-     "ref": "test"
-    }
+    {"info":"Nutrition is the study of nutrients in food, how the body uses nutrients, and the relationship between diet, health, and disease.",
+     "ref": ""
+    },
+    {"info":"A nutrient is a source of nourishment, a component of food, for instance, protein, carbohydrate, fat, vitamin, mineral, fiber, and water.",
+     "ref": ""
+   },{"info":"Macronutrients are nutrients we need in relatively large quantities.",
+    "ref": ""
+   },
+   {"info":"Micronutrients are nutrients we need in relatively small quantities.",
+    "ref": ""
+   },
+   {"info":"Macronutrients can be further split into energy macronutrients (that provide energy), and macronutrients that do not provide energy.",
+    "ref": "https://www.medicalnewstoday.com/articles/160774.php"
+   }
     ],
     "subtopics": [
       {"title": "Carbohydrates",
-       "parts": [],
+       "parts": ["Are a macronutriet",
+                 "4 kcal per gram",
+                 "Carbohydrate molecules include monosaccharides (glucose, fructose, galactose), disaccharides, and polysaccharides (starch)"],
        "ref": ""},
       {"title": "Fats",
-       "parts": [],
+       "parts": ["Are a macronutriet",
+                 "Fats - 9 kcal per gram",
+                 "Fats are required in the diet for health as they serve many functions, including lubricating joints, helping organs produce hormones, assisting in absorption of certain vitamins, reducing inflammation, and preserving brain health."],
        "ref": ""},
       {"title": "Proteins",
-       "parts": [],
+       "parts": ["Are a macronutriet",
+                 "Proteins - 4 kcal per gram",
+                 "Proteins are used to produce new tissues for growth and tissue repair and regulate and maintain body functions."],
        "ref": ""},
       {"title": "Vitamins",
-       "parts": [],
+       "parts": ["Are a micronutrients",
+                 "These are organic compounds we require in tiny amounts. (An organic compound is any molecule that contains carbon.)",
+                 "It is called a vitamin when our bodies cannot synthesize (produce) enough or any of it, so we need to get it from our food.",
+                 ""],
        "ref": ""},
       {"title": "Minerals",
-       "parts": [],
+       "parts": ["Dietary minerals are the other chemical elements our bodies need, other than carbon, hydrogen, oxygen, and nitrogen.",
+                 ""],
        "ref": ""}
       ] },
   {"topic": "Assessing your nutrition",
