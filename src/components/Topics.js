@@ -1,6 +1,6 @@
 import React from "react";
 import Subtopics from "./Subtopics.js"
-
+import putLink from './HelperFunctions.js';
 export default class Topics extends React.Component {
   constructor(props) {
     super(props);
@@ -21,7 +21,7 @@ export default class Topics extends React.Component {
                {this.props.content.map(c => (
                  <div>
                     <p> {c.info} </p>
-                    <p> {c.ref ? "Reference: " + c.ref : ""} </p>
+                    <p> {c.ref ? "Reference: ": ""} {putLink(c.ref)} </p>
 
                  </div>
 

@@ -5,6 +5,7 @@ import React from "react";
 import nutritionoutline from '../../jsonfolder/nutritionoutline.json';
 import nutritiontopics from '../../jsonfolder/nutritiontopics.json';
 
+
 export default class Nutrition extends React.Component {
   render() {
     let outline = nutritionoutline;

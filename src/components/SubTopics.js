@@ -1,4 +1,5 @@
 import React from "react";
+import putLink from './HelperFunctions.js';
 
 function renderPart(props) {
 //  if (isEmpty(props.media)) {
@@ -31,7 +32,7 @@ export default class Subtopics extends React.Component {
                    </li>
                  ))}
                </ul>
-               <p>  {subtopic.ref ? "References: " + subtopic.ref : ""} </p>
+               <p>  {subtopic.ref ? "References: " : ""} {putLink(subtopic.ref)} </p>
             </li>
           ))}
           </ul>
