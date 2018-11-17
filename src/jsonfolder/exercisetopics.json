@@ -1,37 +1,46 @@
 [
   {"topic": "What is Exercise",
     "content": [
-    {"info":"",
-     "ref": "test"
+    {"info":"Exercise is also known as physical activity. In simple terms exercise is any movement that works your body at a greater intensity than your usual level of daily activity. Exercise raises your heart rate and works your muscles and is most commonly undertaken to achieve the aim of physical fitness.",
+     "ref": "https://www.weightlossresources.co.uk/exercise/questions-answers/what-is-exercise.htm"
     }
     ],
     "subtopics": [
-      {"title": "aerobic ",
-       "parts": [],
-       "ref": ""},
-      {"title": "anaerobic",
-       "parts": [],
-       "ref": ""}
+      {"title": "Aerobic exercise ",
+       "parts": ["also known as cardio, is physical exercise of low to high intensity that depends primarily on the aerobic energy-generating process.",
+                 "Aerobic means relating to, involving, or requiring free oxygen",
+                 "Aerobic Exercises can include, walking, running, bicycling, rowing"],
+       "ref": "https://books.google.com/books?id=fYiqixSbhEAC&pg=PT61#v=onepage&q&f=false https://books.google.com/books?id=k75y6g5-aQAC&pg=PT40#v=onepage&q&f=false"},
+      {"title": "Anaerobic exercise",
+       "parts": ["While \"aerobic\" means \"with oxygen,\" anaerobic means \"without air\" or \"without oxygen.\" Anaerobic exercise is short-lasting, high-intensity activity, where your body’s demand for oxygen exceeds the oxygen supply available.",
+                 "Anerobic exerpise can include Weight Lifting, Calistenics (weight liting your body), Sprints (high intensity movements), High-intensity Interval Training a.k.a HIIT" ],
+       "ref": "https://www.sparkpeople.com/resource/fitness_articles.asp?id=1035"}
       ] },
   {"topic": "How often you should be working out",
    "content": [
-   {"info":"",
+   {"info":"All adults should avoid inactivity. Some physical activity is better than none, and adults who participate in any amount of physical activity gain some health benefits.",
     "ref": ""
    }
    ],
    "subtopics": [
-    {"title": "For Men",
-     "parts": [],
-     "ref": ""},
-    {"title": "For Women",
-     "parts": [],
-     "ref": ""},
+    {"title": "Heart ranges",
+     "parts": ["Your heart range is the measure of how many times your heart beats per minutes your",
+               "The maximum heart range formula is (Max Heart Rate = 220 – your age)",
+               "Fat buring range is roughly 50% - 69% of your max which whould be a moderate intensity",
+               "Cardio range is roughly 70% - 85% of your max which whould be a hard intensity",
+               "Peak range is roughly 85% - 100% of your max which whould be a vigorous intensity"],
+     "ref": "https://www.mayoclinic.org/healthy-lifestyle/fitness/expert-answers/heart-rate/faq-20057979 https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/exercise-intensity/art-20046887?pg=2"},
     {"title": "Cardio",
-     "parts": [],
-     "ref": ""},
+     "parts": ["For 6 - 17 years old, most of the 60 or more minutes a day should be either moderate-a- or vigorous-intensityb aerobic physical activity, and should include vigorous-intensity physical activity at least 3 days a week",
+               "For 18 - 64 years old, for substantial health benefits, adults should do at least 150 minutes (2 hours and 30 minutes) a week of moderate-intensity, or 75 minutes (1 hour and 15 minutes) a week of vigorous-intensity aerobic physical activity, or an equivalent combination of moderate- and vigorous-intensity aerobic activity. Aerobic activity should be performed in episodes of at least 10 minutes, and preferably, it should be spread throughout the week. ",
+               "For 18 - 64 additional and more extensive health benefits, adults should increase their aerobic physical activity to 300 minutes (5 hours) a week of moderate-intensity, or 150 minutes a week of vigorous-intensity aerobic physical activity, or an equivalent combination of moderate- and vigorous-intensity activity.",
+               "For 65 and older, people should follow the adult guidelines. When older adults cannot meet the adult guidelines, they should be as physically active as their abilities and conditions will allow." ],
+     "ref": "https://health.gov/dietaryguidelines/2015/guidelines/appendix-1/"},
     {"title": "Resistance",
-     "parts": [],
-     "ref": ""}
+     "parts": ["For 6 - 17 years old, As part of their 60 or more minutes of daily physical activity, children and adolescents should include muscle-strengthening physical activity on at least 3 days of the week.",
+               "Adults should also include muscle-strengthening activities that involve all major muscle groups on 2 or more days a week.",
+               "Similar to cardio older adults follow the adult guidelines. When older adults cannot meet the adult guidelines, they should be as physically active as their abilities and conditions will allow."],
+     "ref": "https://health.gov/dietaryguidelines/2015/guidelines/appendix-1/"}
    ]
   },
   {"topic": "Basic workout routines",
@@ -51,28 +60,7 @@
      "parts": [],
      "ref": ""}
    ]
-  },
-  {"topic": "How often you should be working out",
-   "content": [
-   {"info":"",
-    "ref": ""
-   }
-   ],
-   "subtopics": [
-    {"title": "For Men",
-     "parts": [],
-     "ref": ""},
-    {"title": "For Women",
-     "parts": [],
-     "ref": ""},
-    {"title": "Cardio",
-     "parts": [],
-     "ref": ""},
-    {"title": "Resistance",
-     "parts": [],
-     "ref": ""}
-   ]
-  },
+ },
   {"topic": "Understanding your body",
    "content": [
    {"info":"",

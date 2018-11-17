@@ -4,14 +4,13 @@
   { "name": "What is Exercise", "point":
     [
       {"name": "aerobic ", "point": []},
-      {"name": "anaerobic", "point": []},
-      {"name": "Heart Rate ranges", "point":
-        ["Max heart rate","Peak heart rate","Cardio heart rate","fat burn heart rate"]}
+      {"name": "anaerobic", "point": []}
     ] },
   { "name": "How often you should be working out", "point":
     [
-      {"name": "For Men", "point": []},
-      {"name": "For Women", "point": []},
+      
+      {"name": "Heart Rate ranges", "point":
+        ["Max heart rate","Peak heart rate","Cardio heart rate","fat burn heart rate"]},
       {"name": "Cardio", "point": []},
       {"name": "Resistance", "point": []}
     ]

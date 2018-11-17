@@ -25,16 +25,22 @@
   {"fact": "Nutrition Facts labels are not always factual. The law allows a pretty lax margin of error—up to 20 percent",
    "reference": "https://health.usnews.com/health-news/blogs/eat-run/2012/08/21/when-nutrition-labels-lie"
   },
-  {"fact": "",
-   "reference": ""
+  {"fact": "The Maillard reaction (pronounced \"my-yard\") is a culinary phenomenon that occurs when amino acids and reducing sugars combine causing them to turn brown and yield a distinctive flavor. ",
+   "reference": "https://www.thespruceeats.com/what-is-the-maillard-reaction-995776"
   },
-  {"fact": "",
-   "reference": ""
+  {"fact": "Low-Fat Does Not Equal Healthy",
+   "reference": "https://www.ncbi.nlm.nih.gov/pubmed/16391215 https://jamanetwork.com/journals/jama/fullarticle/202339"},
+  {"fact": "Fat Doesn't Make You Fat, but Neither Do Carbohydrates",
+    "reference": "https://www.ncbi.nlm.nih.gov/pubmed/17228046"
   },
-  {"fact": "",
-   "reference": ""
+  {"fact": "Fruit Juice is Not That Different From Sugary Soft Drinks",
+    "reference": "https://www.youtube.com/watch?v=ZuYPdTvqitg"
   },
-  {"fact": "",
-   "reference": ""
+  {"fact": "Colon cleanses don't push toxic matter out of the gut",
+    "reference": "https://youtu.be/8Xi8ZYTFrb8?t=189"
+  },
+  {"fact": "Lactic Acid Is Not What Causes Sore Muscles",
+    "reference": "https://curiosity.com/topics/lactic-acid-is-not-what-causes-sore-muscles-curiosity/"
   }
+
 ]
