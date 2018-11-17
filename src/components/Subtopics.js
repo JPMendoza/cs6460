@@ -1,23 +1,17 @@
 import React from "react";
 import putLink from './HelperFunctions.js';
 
-function renderPart(props) {
+//function renderPart(props) {
 //  if (isEmpty(props.media)) {
 //    return <>
 //  } else {
 
 //  }
 
-}
+//}
 
 
 export default class Subtopics extends React.Component {
-  constructor(props) {
-    super(props);
-    var sub = this.props.subtopics;
-    console.log(this.props.subtopics);
-
-  }
   render() {
     return (
        <div>

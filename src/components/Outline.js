@@ -2,9 +2,6 @@ import React from "react";
 
 
 export default class Outline extends React.Component {
-  constructor(props) {
-    super(props);
-  }
   render() {
 
     let outline = this.props.outline;

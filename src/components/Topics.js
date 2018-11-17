@@ -2,9 +2,6 @@ import React from "react";
 import Subtopics from "./Subtopics.js"
 import putLink from './HelperFunctions.js';
 export default class Topics extends React.Component {
-  constructor(props) {
-    super(props);
-  }
   render() {
     return (
        <div>
@@ -21,8 +18,8 @@ export default class Topics extends React.Component {
                {this.props.content.map(c => (
                  <div>
                     <p> {c.info} </p>
-                    {c.video ? <iframe src={c.video}
-                               width="560" height="315" frameborder="0" allowfullscreen></iframe> : ""}
+                    {c.video ? <iframe src={c.video} title={c.video}
+                               width="560" height="315" frameborder="0"></iframe> : ""}
                     <p> {c.ref ? "Reference: ": ""} {putLink(c.ref)} </p>
 
                  </div>

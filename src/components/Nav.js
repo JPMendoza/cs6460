@@ -6,7 +6,7 @@ export default class Nav extends React.Component {
     return (
       <div>
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">NCE </a>
+        <span class="navbar-brand">NEC</span>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -26,7 +26,7 @@ export default class Nav extends React.Component {
               <span class="nav-link"><NavLink to="/references">References</NavLink></span>
             </li>
             <li class="nav-item">
-              <a class="nav-link disabled" href="#">Coming soon</a>
+              <span class="nav-link disabled" >Coming soon</span>
             </li>
           </ul>
         </div>

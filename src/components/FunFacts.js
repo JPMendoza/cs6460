@@ -25,7 +25,7 @@ export default class FunFacts extends React.Component {
   random() {
     let currentIndex = this.facts.indexOf(this.state.fact);
     let randomNum =  Math.floor(Math.random()*this.facts.length);
-    while (currentIndex == randomNum) {
+    while (currentIndex === randomNum) {
       randomNum =  Math.floor(Math.random()*this.facts.length);
     }
     this.setState({fact: funfact[randomNum]});

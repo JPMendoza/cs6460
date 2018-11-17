@@ -1,5 +1,4 @@
 import React from "react";
-import {BrowserRouter, Route, Switch } from "react-router-dom"
 import {NavLink} from "react-router-dom"
 import Nutrition from "./courses/Nutrition"
 import Exercise from "./courses/Exercise"

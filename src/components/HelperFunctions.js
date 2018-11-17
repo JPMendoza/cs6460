@@ -1,7 +1,7 @@
 import React from "react";
 function putLinkH(input) {
   if (input.includes("https://") || input.includes("http://")){
-    return <a href={input} target="_blank">{input} </a>;
+    return <a href={input} target="_blank" rel="noopener noreferrer">{input} </a>;
   } else {
     return input;
   }
