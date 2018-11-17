@@ -86,9 +86,12 @@
                "A serving of a food labeled \"low sodium\" can have a maximum of 140 milligrams of sodium.",
                "One serving of a \"low-fat\" food can have a maximum of 3 grams of fat",
                "One serving of a \"light\" food must have 50% less fat or 1/3 fewer calories than the regular version.",
-               "Organic products just means must be produced without conventional pesticides, synthetic fertilizers, biotechnology, or ionizing radiation.",
-               "Organic animals must be fed organic feed and not be injected with hormones or antibiotics."],
-     "ref": ""}
+               "USDA Organic products just means must be produced without conventional pesticides, synthetic fertilizers, biotechnology, or ionizing radiation.",
+               "USDA Organic animals must be fed organic feed and not be injected with hormones or antibiotics.",
+               "CERTIFIED NATURALLY GROWN labels denotes the food was grown using the same standards as those for organic, but not on a farm actually certified by the National Organic Program of the USDA",
+               "NON-GMO PROJECT VERIFIED is a label by the Non-GMO project which is a non-profit organization that provides the only third-party labeling program in North America for products grown without using genetic engineering.",
+               "ALL NATURAL: While many products have “all natural” labeling or packaging, there is no universal standard or definition for this claim"],
+     "ref": "https://www.webmd.com/food-recipes/features/how-to-read-food-labels#1 https://www.farmaid.org/food-labels-explained/"}
    ]
   },
   {"topic": "Finding reliable Nutrition information",

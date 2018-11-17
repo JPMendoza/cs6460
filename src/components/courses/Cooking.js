@@ -13,9 +13,10 @@ export default class Cooking extends React.Component {
        Cooking Learning objectives: <br/>
           &nbsp; By the end of this course you should be able to <br/>
           <ul>
-            <li>Learn common food prep skills</li>
-            <li>Learn common cooking skills</li>
+            <li>Better understand what kitchen tools are good/necessary for cooking and food prep</li>
             <li>Better identify food produce and products</li>
+            <li>Learn more about proper prepping food and cooking food</li>
+            <li>Learn food prepping skills and cooking skills</li>
             <li>Better understand what kitchen tools are good/necessary for cooking and food prep</li>
             <li>get able to find more resources on how to prepare different types of food and find more recipes</li>
           </ul>
