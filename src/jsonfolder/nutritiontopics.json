@@ -25,8 +25,12 @@
       {"title": "Fats",
        "parts": ["Are a macronutriet",
                  "Fats - 9 kcal per gram",
-                 "Fats are required in the diet for health as they serve many functions, including lubricating joints, helping organs produce hormones, assisting in absorption of certain vitamins, reducing inflammation, and preserving brain health."],
-       "ref": ""},
+                 "Fats are required in the diet for health as they serve many functions, including lubricating joints, helping organs produce hormones, assisting in absorption of certain vitamins, reducing inflammation, and preserving brain health.",
+                 "There are different types of fats such as saturated fats, Unstaturaed fats like monounsaturated fats and polyunsaturated fats, lasty Trans fats",
+                 "Unsaturated fats are liquid at room temperature",
+                 "Saturated fats are solid at room temperature",
+                 "Trans fats  are made by heating liquid vegetable oils in the presence of hydrogen gas and a catalyst, a process called hydrogenation."],
+       "ref": "https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/fats-and-cholesterol/types-of-fat/"},
       {"title": "Proteins",
        "parts": ["Are a macronutriet",
                  "Proteins - 4 kcal per gram",
@@ -69,33 +73,68 @@
     {"title": "Determining how much you need to consume",
      "parts": ["In order to determine what you need to consume you need to know, what your body consumes daily",
                "The first reference below, appendix-2 tells you a \"Estimated Calorie Needs per Day, by Age, Sex, and Physical Activity Level\" ",
-               "The second reference below, appendix-7 teslls you \"Nutritional Goals for Age-Sex Groups Based on Dietary Reference Intakes and Dietary Guidelines Recommendations\"",
+               "The second reference below, appendix-7 tells you \"Nutritional Goals for Age-Sex Groups Based on Dietary Reference Intakes and Dietary Guidelines Recommendations\"",
                "The third reference below, is a online calculator that you can use to determine your current total daily energy expenditure.",
                "To gain weight you need to consume more calories than your body needs. To lose weight, you need to consume less than what your body needs. Lastly if you want to stay the same, just consume roughly what you need",
                "Take the time to follow these sources to get a general idea on how much you need to consume!"],
      "ref": "https://health.gov/dietaryguidelines/2015/guidelines/appendix-2/ https://health.gov/dietaryguidelines/2015/guidelines/appendix-7/ https://tdeecalculator.net/" },
-    {"title": "Reading food labels and understand what they mean",
-     "parts": [],
+    {"title": "Reading food labels and understanding what they mean",
+     "parts": ["The nutrition facts should be pretty straight foward to read, just keep in mind the calories are per serving size and the percentage on the right hand side are based on a 2000 calorie diets",
+               "The FDA sets specific rules for what food certain labels mean on packaging",
+               "\"Healthy\" food must be low in fat, with limited cholesterol and sodium.",
+               "Anything labeled \"free\" must only contain tiny amounts of the ingredient in each serving.",
+               "A serving of a food labeled \"low sodium\" can have a maximum of 140 milligrams of sodium.",
+               "One serving of a \"low-fat\" food can have a maximum of 3 grams of fat",
+               "One serving of a \"light\" food must have 50% less fat or 1/3 fewer calories than the regular version.",
+               "Organic products just means must be produced without conventional pesticides, synthetic fertilizers, biotechnology, or ionizing radiation.",
+               "Organic animals must be fed organic feed and not be injected with hormones or antibiotics."],
      "ref": ""}
    ]
   },
   {"topic": "Finding reliable Nutrition information",
    "content": [
-   {"info":"A nutritional assessment is used to determine the nutritional status of a person or group of people.",
+   {"info":"Like mentioned before new information is always coming out and it is very easy to fall victim to bad information. Take this video for example",
+    "video": "https://www.youtube.com/embed/5Ua-WVg1SsA",
+    "ref": ""
+   },
+   {"info":"Another thing to keep in mind is to consider the sources that the articles may have to back up their claims. So consider the following  ",
+     "ref": ""
+   }
+   ],
+   "subtopics": [
+    {"title": "Testimonials sources",
+     "parts": ["It is a claim from a person",
+               "It really doesn't mean much",
+               "Unrelieable"],
+     "ref": ""},
+    {"title": "Sources that use the Scientific method",
+     "parts": ["A systematic set of procedures that scientisit follow to gain knowledge",
+               "Usually is reliable, assuming that the procedures are public and repoduceable",
+               "Need to examine testing methods to determine if it was a bias study. Such as if the results has fixed data to get a patriular results"],
+     "ref": ""},
+    {"title": "Peer-reviewed sources",
+     "parts": ["A study that has been reviewed by fellow peers in the field to check their work",
+               "Studies like these are usually reliable depending if the soruces are reviewed by proper experts"],
+     "ref": ""},
+    {"title": "Large organizaion sources",
+     "parts": ["Usually government studies are reliable",
+               "University studies are usually reliable",
+               "Money making corporations that sell products may have a high bias if they produce studies"],
+     "ref": ""},
+     {"title": "Consider the date",
+      "parts": ["Sometimes claims use studies that are very old. It is always a good idea to check how old a study is ",
+                "Consider the last time the original study has been re-tested. Sciecentific studies are always subjected to re tests to verify their claims"],
+      "ref": ""}
+   ]
+  },
+  {"topic": "Miscellaneous topics ",
+   "content": [
+   {"info":"Comming soon",
+    "video": "",
     "ref": ""
    }
    ],
    "subtopics": [
-    {"title": "Testimonials",
-     "parts": [],
-     "ref": ""},
-    {"title": "Scientific method",
-     "parts": [],
-     "ref": ""},
-    {"title": "Peer-review",
-     "parts": [],
-     "ref": ""}
    ]
   }
-
 ]
