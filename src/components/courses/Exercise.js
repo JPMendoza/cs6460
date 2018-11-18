@@ -25,7 +25,7 @@ export default class Exercise extends React.Component {
                <div class="card-header" id="headingOne">
                  <h5 class="mb-0">
                    <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                     Nutrition Outline
+                     Exercise Outline
                    </button>
                  </h5>
                </div>

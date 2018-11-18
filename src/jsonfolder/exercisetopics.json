@@ -45,15 +45,26 @@
   },
   {"topic": "Basic workout routines",
    "content": [
-   {"info":"",
+   {"info":"In a general sense, there are many ways to have a workout routine. What this section intends on doing is to introduce you to a couble of types of routines and for you to take a few and try them out.",
+    "ref": ""
+   },
+   {"info":"It is encuraged to seek out different types of workouts!",
     "ref": ""
    }
    ],
    "subtopics": [
     {"title": "Circuit Training",
-     "parts": [],
-     "ref": ""},
-    {"title": "Lifting",
+     "parts": ["Circuit training is a method of fitness training that is designed to develop general, all-round physical and cardiovascular fitness.",
+               "The following are examples of exercises that can be used in a circuit training session",
+               "Upper-body: Press ups, Bench dips, Pull-ups, Medicine ball chest pass, Bench lift, Inclined press up",
+               "Core & trunk: Sit-ups (lower abdominals), Stomach crunch (upper abdominals), Back extension chest rise",
+               "Lower-body: Squat jumps, Compass jumps, Astride jumps, Step ups, Shuttle runs, Hopping shuttles, Bench squat",
+               "Total-body: Burpees, Treadmills, Squat thrusts, Skipping",
+               "You can also mix them up by having something like: Treadmills, Press ups, Squat Jumps (forward astride), Sit-ups (bent knees feet on the ground), Squat Thrusts, Bench Dips, Shuttle runs, Back extension chest rise",
+               "For duration, 20 to 30 seconds work on each exercise with a 30-second recovery between each exercise with a 3 to 5 sets with a 3-minute recovery between each set",
+               "Please follow the 3rd link to get a better understanding on how to do some of these excerises"],
+     "ref": "https://www.sportireland.ie/Coaching-Ireland/Publications-/Circuit-Training.pdf https://www.brianmac.co.uk/circuit.htm https://www.brianmac.co.uk/documents/circuit%20cards.pdf"},
+    {"title": "Weight Lifting",
      "parts": [],
      "ref": ""},
     {"title": "HIIT",
