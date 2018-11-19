@@ -43,7 +43,7 @@
      "ref": "https://health.gov/dietaryguidelines/2015/guidelines/appendix-1/"}
    ]
   },
-  {"topic": "Basic workout routines",
+  {"topic": "Types of work outs and basic workout routines",
    "content": [
    {"info":"In a general sense, there are many ways to have a workout routine. What this section intends on doing is to introduce you to a couble of types of routines and for you to take a few and try them out.",
     "ref": ""
@@ -65,10 +65,15 @@
                "Please follow the 3rd link to get a better understanding on how to do some of these excerises"],
      "ref": "https://www.sportireland.ie/Coaching-Ireland/Publications-/Circuit-Training.pdf https://www.brianmac.co.uk/circuit.htm https://www.brianmac.co.uk/documents/circuit%20cards.pdf"},
     {"title": "Weight Lifting",
-     "parts": [],
-     "ref": ""},
+     "parts": ["This section is mainly focused on lifting with weights.",
+               "Two types of lifting exerises to keep in mind are isolation exercise and compound exercises. Isolation exercies tend to only focus on a single muscle. Compound exercises tend to focus on 2 or more muscles",
+               "When lifting with weights there are options to use a machine as well as free weights",
+               "Free Weights include dumbbells, barbells, kettlebells, and anything else you can pick up and hold. They make your body work against gravity to pick up the object. ",
+               "Machines include anything that you sit in, or on, while you pull or push a lever through a specific range of motion.",
+               "Cable machines have characteristics of both"],
+     "ref": "https://lifehacker.com/gym-showdown-free-weights-vs-machines-1789967530"},
     {"title": "HIIT",
-     "parts": [],
+     "parts": [""],
      "ref": ""}
    ]
  },
@@ -80,7 +85,7 @@
    ],
    "subtopics": [
     {"title": "Feeling Sore vs Feeling hurt",
-     "parts": [],
+     "parts": ["Comming soon"],
      "ref": ""}
    ]
   }

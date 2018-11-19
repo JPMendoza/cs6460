@@ -105,7 +105,7 @@
   },
   {"topic": "Cooking ",
    "content": [
-   {"info":"This module will focus on preparing food in a safe and proper method as oppose to techniques to prepare food for tasty consumption.",
+   {"info":"This module will focus on preparing food in a safe and proper method as oppose to techniques to prepare food for tasty consumption. (more comming soon)",
     "ref": ""
    }
    ],
@@ -120,18 +120,12 @@
  },
  {"topic": "Common recipes",
   "content": [
-  {"info":"",
+  {"info":"comming soon",
    "ref": ""
   }
   ],
   "subtopics": [
-   {"title": "Breakfasts",
-    "parts": [""],
-    "ref": ""},
-   {"title": "Lunch",
-    "parts": [],
-    "ref": ""},
-   {"title": "Peer-review",
+   {"title": "",
     "parts": [],
     "ref": ""}
   ]

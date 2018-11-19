@@ -8,14 +8,14 @@
     ] },
   { "name": "How often you should be working out", "point":
     [
-      
+
       {"name": "Heart Rate ranges", "point":
         ["Max heart rate","Peak heart rate","Cardio heart rate","fat burn heart rate"]},
       {"name": "Cardio", "point": []},
       {"name": "Resistance", "point": []}
     ]
   },
-  { "name": "Basic workout routines ", "point":
+  { "name": "Types of work outs and basic workout routines", "point":
     [
       {"name": "Circuit Training", "point": []},
       {"name": "Lifting", "point": []},
