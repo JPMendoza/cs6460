@@ -1,4 +1,5 @@
 import React from 'react'
+import {putPicture} from '../HelperFunctions.js';
 
 const Question = ({
   question,
@@ -8,7 +9,7 @@ const Question = ({
 }) => {
   return (
     <div >
-      <h6 style= {{width: '100%',textAlign: 'center'}}>{question.question}</h6>
+      <h6 style= {{width: '100%',textAlign: 'center'}}>{putPicture(question.question)}</h6>
       <ul style={{listStyleType:"none"}}>
       {question.answers.map((answer, i) =>
         <li  key={`${index}-${i}`}>

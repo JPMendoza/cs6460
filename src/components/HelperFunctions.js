@@ -3,16 +3,32 @@ function putLinkH(input) {
   if (input.includes("https://") || input.includes("http://")){
     return <a href={input} target="_blank" rel="noopener noreferrer">{input} </a>;
   } else {
-    return input;
+    return input + " ";
   }
 }
 
 function putLink(input) {
   var strs = input.split(" ");
-  console.log(strs);
   return strs.map(str =>
     putLinkH(str));
 
 
 }
-export default putLink ;
+
+
+function putPictureH(input) {
+  if (input.includes("https://") || input.includes("http://")){
+    return (<div><br/> <img src={input} height="320" width="280" alt=""/></div>) ;
+  } else {
+    return input + " " ;
+  }
+}
+
+export function putPicture(input) {
+  var strs = input.split(" ");
+  return strs.map(str =>
+    putPictureH(str));
+
+
+}
+export default putLink;

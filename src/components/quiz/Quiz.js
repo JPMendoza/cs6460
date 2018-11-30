@@ -1,5 +1,6 @@
 import React from 'react'
 import $ from 'jquery'
+import {putLink, putPicture} from '../HelperFunctions.js';
 
 import Question from './Question'
 
@@ -13,10 +14,13 @@ export default class Quiz extends React.Component {
         index: 0,
         answers: []
       }
+      console.log(props.input);
   }
 
   componentDidMount() {
-    $.getJSON('./data/quiz.json', function(result) {
+    let input = this.props.input;
+    console.log(input);
+    $.getJSON(input, function(result) {
       this.setState({quiz: result})
     }.bind(this))
   }

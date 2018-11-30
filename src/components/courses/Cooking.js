@@ -3,6 +3,7 @@ import Outline from "../Outline";
 import Topics from "../Topics";
 import cookingoutline from '../../jsonfolder/cookingoutline.json';
 import cookingtopics from '../../jsonfolder/cookingtopics.json';
+import Quiz from '../quiz/Quiz'
 export default class Cooking extends React.Component {
   render() {
     let outline = cookingoutline;
@@ -48,6 +49,7 @@ export default class Cooking extends React.Component {
                </div>
                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                  <div class="card-body">
+                     <Quiz input="../data/cookingquiz1.json" />
                      In app coming Soon <br/>please see link
                      <a target="blank" href="https://docs.google.com/forms/d/15V0SmkqRjYrQKZlPSSJD6oFuoMeNIVsoaJ0fRv6Tf8I"> Quiz </a>
                    </div>
