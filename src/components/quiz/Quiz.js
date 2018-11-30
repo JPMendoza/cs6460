@@ -56,15 +56,14 @@ export default class Quiz extends React.Component {
 
     return (
       <div>
-        <h3>{quiz.title}</h3>
+        <h3 style= {{width: '70%',margin: 'auto',textAlign: 'center'}}>{quiz.title}</h3>
         {completed ?
-          <div>
-            <p>Congratulation, you finished the quiz</p>
-            Your score is {score}
+          <div style= {{width: '70%',margin: 'auto',textAlign: 'center'}}>
+            Your score is {score} / {numberOfQuestions}
           </div>
         :
           <div>
-          <h5>Question {index + 1} of {numberOfQuestions}</h5>
+          <h5 style= {{width: '70%',margin: 'auto',textAlign: 'center'}}>Question {index + 1} of {numberOfQuestions}</h5>
           {quiz.questions && index < numberOfQuestions ?
             <Question
               question={quiz.questions[index]}
@@ -75,6 +74,7 @@ export default class Quiz extends React.Component {
           : ''}
           </div>
         }
+
       </div>
     )
   }

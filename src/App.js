@@ -22,13 +22,15 @@ class App extends Component {
       <BrowserRouter basename={process.env.PUBLIC_URL}>
         <div class="container">
           <Nav/>
-          <Switch>
+          <div style={{paddingTop:"60px"}}>
+          <Switch >
             <Route exact path='/' component={Home}/>
             <Route path="/basiccourse/:param1?" component={BasicCourse}/>
             <Route path="/funfacts" component={FunFacts}/>
             <Route path="/references" component={References}/>
             <Route component={Error}/>
           </Switch>
+          </div>
         </div>
       </BrowserRouter>
 

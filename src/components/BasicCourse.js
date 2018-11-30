@@ -26,31 +26,26 @@ export default class BasicCourse extends React.Component {
     return (
        <div class="container">
          <div class="row">
-           <div class="col-sm-2">
-             <ul class="nav flex-column">
+           <div class="col-sm-2 sticky-top" style={{alignSelf: "flex-start", top:"60px"}} >
+
+             <ul class="nav nav-pills flex-column" >
+               <li class="nav-item">
+                  <NavLink className="btn btn-dark btn-block" style={{color: 'white', textDecoration: 'none'}} to="/basiccourse">Overview</NavLink>
+               </li>
                 <li class="nav-item">
-                  <span class="nav-link active" >
-                   <NavLink to="/basiccourse">Overview</NavLink>
-                  </span>
+                  <NavLink className="btn btn-primary btn-block" style={{color: 'white', textDecoration: 'none'}} to="/basiccourse/nutrition">1) Nutrition</NavLink>
                 </li>
                 <li class="nav-item">
-                 <span class="nav-link active" >
-                  <NavLink to="/basiccourse/nutrition">1) Nutrition</NavLink>
-                 </span>
+                    <NavLink className="btn btn-primary btn-block" style={{color: 'white', textDecoration: 'none'}} to="/basiccourse/cooking">2) Cooking</NavLink>
+
                 </li>
                 <li class="nav-item">
-                  <span class="nav-link active" >
-                    <NavLink to="/basiccourse/cooking">2) Cooking</NavLink>
-                  </span>
-                </li>
-                <li class="nav-item">
-                  <span class="nav-link active" >
-                    <NavLink to="/basiccourse/exercise">3) Exercise</NavLink>
-                  </span>
+                    <NavLink className="btn btn-primary btn-block" style={{color: 'white', textDecoration: 'none'}} to="/basiccourse/exercise">3) Exercise</NavLink>
+
                 </li>
               </ul>
             </div>
-            <div class="col-sm-10">
+            <div class="col-sm-10 card">
               {renderPage(this.props.match.params.param1)}
             </div>
           </div>

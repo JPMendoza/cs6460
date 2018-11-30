@@ -30,7 +30,7 @@ export default class Exercise extends React.Component {
                  </h5>
                </div>
 
-               <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+               <div id="collapseOne" class="collapse collapsed" aria-labelledby="headingOne" data-parent="#accordion">
                  <div class="card-body">
                    <Outline outline={outline}/>
                  </div>
