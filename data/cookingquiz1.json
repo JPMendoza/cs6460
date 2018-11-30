@@ -1,0 +1,128 @@
+{
+  "title": "Test your knowledge on Cooking and Food Prep",
+  "questions": [
+    {
+      "question": "You can use metal cooking tools a Non-stick Teflon pan  https://www.seriouseats.com/images/2015/09/20150921-misen-knife-review-1.jpg",
+      "answers": [
+        {
+          "point": 1,
+          "label": "True"
+        },
+        {
+          "point": 0,
+          "label": "False"
+        }
+      ]
+    },
+    {
+      "question": "Which is the lowest USDA grade of beef?",
+      "answers": [
+        {
+          "point": 1,
+          "label": "Select"
+        },
+        {
+          "point": 1,
+          "label": "Choice"
+        },
+        {
+          "point": 0,
+          "label": "Prime"
+        },
+        {
+          "point": 0,
+          "label": "Standard"
+        }
+      ]
+    },
+    {
+      "question": "When should you throw out dairy milk from the fridge?",
+      "answers": [
+        {
+          "point": 0,
+          "label": "When the date is past the \"best by\" date"
+        },
+        {
+          "point": 0,
+          "label": "When the date is past the \"expiration\" date"
+        },
+        {
+          "point": 1,
+          "label": "When the milk smells and or taste sour"
+        },
+        {
+          "point": 0,
+          "label": "When a week has past after opening it"
+        }
+      ]
+    },
+    {
+      "question": "What way can you you put out a oil fire if it occurs when cooking?",
+      "answers": [
+        {
+          "point": 1,
+          "label": "Turn off the burner and cover the fire with a metal lid"
+        },
+        {
+          "point": 0,
+          "label": "Pour water on it"
+        },
+        {
+          "point": 0,
+          "label": "Keep cooking the oil fire will go out eventually"
+        },
+        {
+          "point": 0,
+          "label": "Turn off the burner and cover the fire with a glass lid"
+        }
+      ]
+    },
+    {
+      "question": "Cast Iron pans, Stainless Steel Pans and Carbon Steel pans are safe to use in the oven at 500 Degree F (260 Degrees C)",
+      "answers": [
+        {
+          "point": 1,
+          "label": "Yes"
+        },
+        {
+          "point": 0,
+          "label": "No"
+        }
+      ]
+    },
+    {
+      "question": "The U.S Government classifies Tomatoes as vegetables",
+      "answers": [
+        {
+          "point": 1,
+          "label": "True"
+        },
+        {
+          "point": 0,
+          "label": "False"
+        }
+      ]
+    },
+    {
+      "question": "What kind of knife is this?  https://www.seriouseats.com/images/2015/09/20150921-misen-knife-review-1.jpg ",
+      "answers": [
+        {
+          "point": 0,
+          "label": "165"
+        },
+        {
+          "point": 1,
+          "label": "145"
+        },
+        {
+          "point": 0,
+          "label": "125"
+        },
+        {
+          "point": 0,
+          "label": "110"
+        }
+      ]
+    }
+  ]
+}
