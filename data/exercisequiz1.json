@@ -1,0 +1,217 @@
+{
+  "title": "Test your knowledge on Exercise",
+  "questions": [
+    {
+      "question": "What is aerobic activity?",
+      "answers": [
+        {
+          "point": 1,
+          "label": "physical activities in which people move their large muscles in a rhythmic manner for a sustained period"
+        },
+        {
+          "point": 0,
+          "label": "short-lasting, high-intensity activity, where your body’s demand for oxygen exceeds the oxygen supply available."
+        },
+        {
+          "point": 0,
+          "label": "Laying around and Resting up, where your body is recovering  from a work out."
+        }
+      ]
+    },
+    {
+      "question": "What is anaerobic activity",
+      "answers": [
+        {
+          "point": 0,
+          "label": "physical activities in which people move their large muscles in a rhythmic manner for a sustained period"
+        },
+        {
+          "point": 1,
+          "label": "short-lasting, high-intensity activity, where your body’s demand for oxygen exceeds the oxygen supply available."
+        },
+        {
+          "point": 0,
+          "label": "Laying around and Resting up, where your body is recovering  from a work out."
+        }
+      ]
+    },
+    {
+      "question": "For ages 18 to 64 what is the recommend physical activity for substantial health benefits a week ",
+      "answers": [
+        {
+          "point": 0,
+          "label": "at least 100 minutes a week of moderate-intensity, or 60 minutes a week of vigorous-intensity aerobic physical activity, or an equivalent combination of moderate- and vigorous-intensity aerobic activity."
+        },
+        {
+          "point": 1,
+          "label": "at least 150 minutes a week of moderate-intensity, or 75 minutes a week of vigorous-intensity aerobic physical activity, or an equivalent combination of moderate- and vigorous-intensity aerobic activity."
+        },
+        {
+          "point": 0,
+          "label": "at least 250 minutes a week of moderate-intensity, or 175 minutes a week of vigorous-intensity aerobic physical activity, or an equivalent combination of moderate- and vigorous-intensity aerobic activity."
+        },
+        {
+          "point": 0,
+          "label": "at least 350 minutes a week of moderate-intensity, or 275 minutes a week of vigorous-intensity aerobic physical activity, or an equivalent combination of moderate- and vigorous-intensity aerobic activity."
+        }
+      ]
+    },
+    {
+      "question": "For ages 18 to 64 what is the recommend physical activity for extensive health benefits a week ",
+      "answers": [
+        {
+          "point": 0,
+          "label": "at least 100 minutes a week of moderate-intensity, or 60 minutes a week of vigorous-intensity aerobic physical activity, or an equivalent combination of moderate- and vigorous-intensity aerobic activity."
+        },
+        {
+          "point": 0,
+          "label": "at least 150 minutes a week of moderate-intensity, or 75 minutes a week of vigorous-intensity aerobic physical activity, or an equivalent combination of moderate- and vigorous-intensity aerobic activity."
+        },
+        {
+          "point": 0,
+          "label": "at least 250 minutes a week of moderate-intensity, or 115 minutes a week of vigorous-intensity aerobic physical activity, or an equivalent combination of moderate- and vigorous-intensity aerobic activity."
+        },
+        {
+          "point": 1,
+          "label": "at least 300 minutes a week of moderate-intensity, or 150 minutes a week of vigorous-intensity aerobic physical activity, or an equivalent combination of moderate- and vigorous-intensity aerobic activity."
+        }
+      ]
+    },
+    {
+      "question": "When doing a push up,  where should your head be positioned ",
+      "answers": [
+        {
+          "point": 0,
+          "label": "It doesn't matter where you head is positioned"
+        },
+        {
+          "point": 0,
+          "label": "The head should be lifted to extend looking down from the spine"
+        },
+        {
+          "point": 0,
+          "label": "The head should be lifted to extend looking up from the spine"
+        },
+        {
+          "point": 1,
+          "label": "The head should be lifted to extend straight out from the spine"
+        }
+      ]
+    },
+    {
+      "question": "What heart rate range for fat burning zone",
+      "answers": [
+        {
+          "point": 0,
+          "label": "10%-20% of your max heart rate"
+        },
+        {
+          "point": 1,
+          "label": "50%-60% of your max heart rate"
+        },
+        {
+          "point": 0,
+          "label": "70%-80% of your max heart rate"
+        },
+        {
+          "point": 0,
+          "label": "40%-50% of your max heart rate"
+        }
+      ]
+    },
+    {
+      "question": "Getting your heart rate closer to your max heart rate might show more calories being burned, but you’re not necessarily burning fat.",
+      "answers": [
+        {
+          "point": 1,
+          "label": "True"
+        },
+        {
+          "point": 0,
+          "label": "False"
+        }
+      ]
+    },
+    {
+      "question": "If a person is 21 years old what is their maximum heart rate?",
+      "answers": [
+        {
+          "point": 0,
+          "label": "220"
+        },
+        {
+          "point": 0,
+          "label": "209"
+        },
+        {
+          "point": 1,
+          "label": "199"
+        },
+        {
+          "point": 0,
+          "label": "189"
+        }
+      ]
+    },
+    {
+      "question": "Strengthening exercises should be performed to the point at which it would be difficult to do another repetition without help.",
+      "answers": [
+        {
+          "point": 1,
+          "label": "True"
+        },
+        {
+          "point": 0,
+          "label": "False"
+        }
+      ]
+    },
+    {
+      "question": "Having too much build up of lactic acid is the main reason why people get sore after a workout.",
+      "answers": [
+        {
+          "point": 0,
+          "label": "True"
+        },
+        {
+          "point": 1,
+          "label": "False"
+        }
+      ]
+    },
+    {
+      "question": "What is it then that causes DOMS (delayed onset muscle soreness) for days after exercise?",
+      "answers": [
+        {
+          "point": 0,
+          "label": "Too much build up of lactic acid"
+        },
+        {
+          "point": 1,
+          "label": "Muscles becoming swollen for muscle repair"
+        },
+        {
+          "point": 0,
+          "label": "Not working out for a long period of time"
+        },
+        {
+          "point": 0,
+          "label": "Working out too hard"
+        }
+      ]
+    },
+    {
+      "question": "Is Soreness a Prerequisite for Growth?",
+      "answers": [
+        {
+          "point": 0,
+          "label": "Yes"
+        },
+        {
+          "point": 1,
+          "label": "No"
+        }
+      ]
+    }
+  ]
+}
