@@ -1,6 +1,5 @@
 import React from 'react'
 import $ from 'jquery'
-import {putLink, putPicture} from '../HelperFunctions.js';
 
 import Question from './Question'
 

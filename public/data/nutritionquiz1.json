@@ -1,0 +1,183 @@
+{
+  "title": "Test your knowledge on Nutrition",
+  "questions": [
+    {
+      "question": "What is the definition of Nutrition?",
+      "answers": [
+        {
+          "point": 1,
+          "label": "is the intake of food, considered in relation to the body’s dietary needs. Good nutrition – an adequate, well balanced diet combined with regular physical activity – is a cornerstone of good health. Poor nutrition can lead to reduced immunity, increased susceptibility to disease, impaired physical and mental development, and reduced productivity."
+        },
+        {
+          "point": 0,
+          "label": "a substance present in cereal grains, especially wheat, that is responsible for the elastic texture of dough."
+        },
+        {
+          "point": 0,
+          "label": "any of a group of organic compounds that are essential for normal growth and nutrition and are required in small quantities in the diet because they cannot be synthesized by the body."
+        },
+        {
+          "point": 0,
+          "label": "a solid material that is typically hard, shiny, malleable, fusible, and ductile, with good electrical and thermal conductivity"
+        }
+      ]
+    },
+    {
+      "question": "What is the definition of Diet?",
+      "answers": [
+        {
+          "point": 0,
+          "label": "Restricting what you eat"
+        },
+        {
+          "point": 0,
+          "label": "A life style change"
+        },
+        {
+          "point": 1,
+          "label": "food and drink regularly consumed"
+        },
+        {
+          "point": 0,
+          "label": "not eating too much sugar"
+        }
+      ]
+    },
+    {
+      "question": "Which 3 are macronutrients?",
+      "answers": [
+        {
+          "point": 0,
+          "label": "Vitamins A, B, D"
+        },
+        {
+          "point": 0,
+          "label": "Taurine, Ginseng, Guarana"
+        },
+        {
+          "point": 0,
+          "label": "Vitamins, Minerals, Water"
+        },
+        {
+          "point": 1,
+          "label": "Fat, Protein, Carbohydrates"
+        }
+      ]
+    },
+    {
+      "question": "Which one isn't a type of fat in food consumption?",
+      "answers": [
+        {
+          "point": 0,
+          "label": "Saturated Fat"
+        },
+        {
+          "point": 0,
+          "label": "Trans Fat"
+        },
+        {
+          "point": 0,
+          "label": "Unsaturated fat"
+        },
+        {
+          "point": 1,
+          "label": "Omega-4 fatty acids"
+        }
+      ]
+    },
+    {
+      "question": "Gluten is something that you should personally avoid",
+      "answers": [
+        {
+          "point": 1,
+          "label": "True"
+        },
+        {
+          "point": 1,
+          "label": "False"
+        }
+      ]
+    },
+    {
+      "question": "When was the first U.S Dietary guideline created?",
+      "answers": [
+        {
+          "point": 0,
+          "label": "1950"
+        },
+        {
+          "point": 1,
+          "label": "1894"
+        },
+        {
+          "point": 0,
+          "label": "1936"
+        },
+        {
+          "point": 0,
+          "label": "1872"
+        }
+      ]
+    },
+    {
+      "question": "Men and Women 18 and older on average burn ~2000 calories a day ",
+      "answers": [
+        {
+          "point": 0,
+          "label": "True"
+        },
+        {
+          "point": 1,
+          "label": "False"
+        }
+      ]
+    },
+    {
+      "question": "What does GMO stand for?",
+      "answers": [
+        {
+          "point": 1,
+          "label": "Genetically Modified Organism"
+        },
+        {
+          "point": 0,
+          "label": "General Modified Organism"
+        },
+        {
+          "point": 0,
+          "label": "Graphically Modified Offerings"
+        },
+        {
+          "point": 0,
+          "label": "Genetically Modified Objective"
+        }
+      ]
+    },
+    {
+      "question": "Are GMO foods are bad for consumption?",
+      "answers": [
+        {
+          "point": 0,
+          "label": "True"
+        },
+        {
+          "point": 1,
+          "label": "False"
+        }
+      ]
+    },
+    {
+      "question": "You need to consume a lot of vitamin C to quickly recover from being sick",
+      "answers": [
+        {
+          "point": 0,
+          "label": "True"
+        },
+        {
+          "point": 1,
+          "label": "False"
+        }
+      ]
+    }
+  ]
+}

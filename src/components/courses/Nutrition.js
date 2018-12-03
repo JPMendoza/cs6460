@@ -2,6 +2,7 @@
 import Outline from "../Outline";
 import Topics from "../Topics";
 import React from "react";
+import Quiz from '../quiz/Quiz'
 import nutritionoutline from '../../jsonfolder/nutritionoutline.json';
 import nutritiontopics from '../../jsonfolder/nutritiontopics.json';
 
@@ -50,8 +51,7 @@ export default class Nutrition extends React.Component {
             </div>
             <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
               <div class="card-body">
-                  In app coming Soon <br/>please see link
-                  <a target="blank" href="https://docs.google.com/forms/d/1DVlBUFSy0H6EjwCEwiSeKzRoGlMvX-zlL7y1QoBw5A8"> Quiz </a>
+                  <Quiz input="../data/nutritionquiz1.json" />
                 </div>
             </div>
           </div>
