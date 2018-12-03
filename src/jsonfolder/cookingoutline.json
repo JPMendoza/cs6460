@@ -17,7 +17,7 @@
         {"name": "Knives", "point": []},
         {"name": "Thermometers ", "point": []}
       ] },
-  { "name": "Shopping for foods and food storage storage", "point":
+  { "name": "Shopping for foods and food storage", "point":
     [
       {"name": "Meats", "point": ["Pork", "Beef", "Poultry","Seafood"]},
       {"name": "Fruits and vegetables", "point": []},

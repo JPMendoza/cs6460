@@ -46,15 +46,7 @@
        "parts": [],
        "ref": ""}
       ] },
-  {"topic": "Picking good tools for the job",
-   "content": [
-     {"info": "coming soon",
-      "ref": ""}
-   ],
-   "subtopics": [
-     ]
-   },
-  {"topic": "Shopping for foods and food storage storage",
+  {"topic": "Shopping for foods and food storage",
    "content": [
    {"info":"This section will cover general things you should know for when buying food for such as selecting food and storing food",
     "ref": ""
@@ -103,31 +95,83 @@
      "ref": ""}
    ]
   },
-  {"topic": "Cooking ",
+  {"topic": "Cooking and Preping ",
    "content": [
-   {"info":"This module will focus on preparing food in a safe and proper method as oppose to techniques to prepare food for tasty consumption. (more comming soon)",
+   {"info":"This module will focus on things you know of in the kitchen",
     "ref": ""
    }
    ],
    "subtopics": [
-    {"title": "Proper food prep",
-     "parts": ["Handling food"],
-     "ref": ""},
+    {"title": "Safe Food Preperation and handling",
+     "parts": ["Always wash hands with warm water and soap for 20 seconds before and after handling food.",
+               "Don't cross-contaminate. Keep raw meat, poultry, fish, and their juices away from other food. After cutting raw meats, wash cutting board, utensils, and countertops with hot, soapy water.",
+               "Cutting boards, utensils, and countertops can be sanitized by using a solution of 1 tablespoon of unscented, liquid chlorine bleach in 1 gallon of water.",
+               "Marinate meat and poultry in a covered dish in the refrigerator.",
+               "When thawing the best options are in the refidgerator, in a bg sumberged in cold tap water, or in the microwave",
+               "Hot food should be held at 140 °F (60 °C) or warmer.",
+               "Cold food should be held at 40 °F (4.4 ºC) or colder.",
+               "Perishable food should not be left out more than 2 hours at room temperature—1 hour when the temperature is above 90 °F (32.2 ºC)."
+               ],
+     "ref": "https://tinyurl.com/yaaxeo2v"},
+    {"title": "Knife skills",
+     "parts": ["A essential skill needed in the kitchen is knife skills, please review the video below on using a knife. There is also a link video that goes more into detail about knife work "],
+     "video": "https://www.youtube.com/embed/G-Fg7l7G1zw",
+     "ref": "https://www.youtube.com/watch?v=zMo4OD-sGOw"},
     {"title": "Common cooking methods",
-     "parts": ["Frying","Stewing","Baking","Grilling","Steaming"],
-     "ref": ""}
+     "parts": ["Frying: the cooking of food in hot fats or oils, usually done with a shallow oil bath in a pan over a fire or as so-called deep fat frying, in which the food is completely immersed in a deeper vessel of hot oil.",
+               "Stewing: dish of meat, poultry, or fish, usually with vegetables, cooked in liquid in a closed vessel over low heat. Prepared properly, the stew never boils, but simmers at about 190° F (88° C), a process that tenderizes tougher foods and mingles flavours.",
+               "Baking: process of cooking by dry heat, especially in some kind of oven. It is probably the oldest cooking method.",
+               "Grilling: cooking food on a rack over a heat source, usually a charcoal fire or ceramic briquettes heated by gas flames. Direct heat quickly sears the outside of food, producing distinctive robust",
+               "Steaming: Cooking by steam and steaming works by boiling water continuously, causing it to vaporize into steam; "],
+     "ref": "https://www.britannica.com/topic/frying https://www.britannica.com/topic/stew https://www.britannica.com/topic/baking https://www.cookinglight.com/cooking-101/techniques/cooking-class-grilling https://en.wikipedia.org/wiki/Steaming"},
+    {"title": "Leftovers",
+    "parts": ["Discard any food left out at room temperature for more than 2 hours—1 hour if the temperature was above 90 °F (32.2 ºC).",
+               "Place food into shallow containers and immediately put in the refrigerator or freezer for rapid cooling.",
+               "Cutting boards, utensils, and countertops can be sanitized by using a solution of 1 tablespoon of unscented, liquid chlorine bleach in 1 gallon of water.",
+               "Use cooked leftovers within 4 days.",
+               "Reheat leftovers to 165 °F (73.9 °C)."
+               ],
+    "ref": "https://tinyurl.com/yaaxeo2v"}
    ]
  },
- {"topic": "Common recipes",
+ {"topic": "Recipes",
   "content": [
-  {"info":"comming soon",
+  {"info":"There are many online resources to look into to learn some common recipes. Below are links to how to for cooking recipies. Here are some with visual aids",
+   "ref": ""
+  },
+  {"info":"After taking a look at the video below, I encourage you to explore around and see what you can find.",
    "ref": ""
   }
   ],
   "subtopics": [
-   {"title": "",
+   {"title": "Binging with Babish",
+    "video":"https://www.youtube.com/embed/8hpD5strtzM?list=PLopY4n17t8RBuyIohlCY9G8sbyXrdEJls",
     "parts": [],
-    "ref": ""}
+    "ref": ""},
+   {"title": "Tasty",
+   "video":"https://www.youtube.com/embed/KLGSLCaksdY?list=PL8zglt-LDl-jw_0DJjplCuNKPbA5Q_5NN",
+   "parts": [],
+   "ref": ""},
+   {"title": "Fit Men Cook",
+    "video":"https://www.youtube.com/embed/-JCgTzAGTmM?list=PLIqj12N6PhnCYTQONnL3rlj23uJuFNRc0",
+    "parts": [],
+    "ref": ""},
+    {"title": "Laura in the Kitchen",
+     "video":"https://www.youtube.com/embed/KBXeYq1mth8?list=PLcNW74P7qM7LidDBGNxmijoavCjBXr9mz",
+     "parts": [],
+     "ref": ""},
+    {"title": "Struggle Meals",
+     "video":"https://www.youtube.com/embed/mBbf4YbDefA?list=PLX98sAmndWt00CsyKGlZZ-eHmuV1ntWyy",
+     "parts": [],
+     "ref": ""},
+     {"title": "Divas Can Cook",
+      "video":"https://www.youtube.com/embed/kMr2umjLxv0?list=PLh6QbBDcag1XYaiyKGsxH3I1XHLBR0lCb",
+      "parts": [],
+      "ref": ""},
+     {"title": "You Suck at Cooking",
+      "video":"https://www.youtube.com/embed/aUCdVX89zb8?list=PLE4Xo75gvAuFPu2rrkC9L5zuw1aORkvuX",
+      "parts": [],
+      "ref": ""}
   ]
  }
 

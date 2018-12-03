@@ -73,8 +73,13 @@
                "Cable machines have characteristics of both"],
      "ref": "https://lifehacker.com/gym-showdown-free-weights-vs-machines-1789967530"},
     {"title": "HIIT",
-     "parts": [""],
-     "ref": ""}
+     "parts": ["HIIT, or high-intensity interval training, is a training technique in which you give all-out, one hundred percent effort through quick, intense bursts of exercise, followed by short, sometimes active, recovery periods.",
+               "This type of training gets and keeps your heart rate up and burns more fat in less time.",
+               "Intervals during the high intensity work period should be performed at > 80% of your estimated maximal heart rate. ",
+               "The recovery period should be performed at 40-50% of your estimated maximal heart rate.",
+               "One example would be to do a ratio of 1:1 which may be a 3-minute hard work or high intensity period followed by a 3-minute recovery period. 20 on and 10 off is very popular.",
+               "Almost any workout can become a HIIT workout"],
+     "ref": "https://dailyburn.com/life/fitness/high-intensity-hiit-workout/ https://www.fitnessblender.com/articles/what-is-hiit-and-how-do-i-use-it-in-my-training"}
    ]
  },
   {"topic": "Understanding your body",
