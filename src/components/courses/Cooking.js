@@ -50,8 +50,6 @@ export default class Cooking extends React.Component {
                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                  <div class="card-body">
                      <Quiz input="../data/cookingquiz1.json" />
-                     In app coming Soon <br/>please see link
-                     <a target="blank" href="https://docs.google.com/forms/d/15V0SmkqRjYrQKZlPSSJD6oFuoMeNIVsoaJ0fRv6Tf8I"> Quiz </a>
                    </div>
                </div>
              </div>
