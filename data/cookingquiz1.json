@@ -2,7 +2,7 @@
   "title": "Test your knowledge on Cooking and Food Prep",
   "questions": [
     {
-      "question": "You can use metal cooking tools a Non-stick Teflon pan  https://www.seriouseats.com/images/2015/09/20150921-misen-knife-review-1.jpg",
+      "question": "You can use metal cooking tools a Non-stick Teflon pan  ",
       "answers": [
         {
           "point": 1,
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "question": "What kind of knife is this?  https://www.seriouseats.com/images/2015/09/20150921-misen-knife-review-1.jpg ",
+      "question": "What is the USDA minimum safe temperature to eat beef?",
       "answers": [
         {
           "point": 0,
@@ -121,6 +121,48 @@
         {
           "point": 0,
           "label": "110"
+        }
+      ]
+    },
+    {
+      "question": "What is the USDA minimum safe temperature to eat Pork?",
+      "answers": [
+        {
+          "point": 0,
+          "label": "165"
+        },
+        {
+          "point": 1,
+          "label": "145"
+        },
+        {
+          "point": 0,
+          "label": "125"
+        },
+        {
+          "point": 0,
+          "label": "110"
+        }
+      ]
+    },
+    {
+      "question": "What kind of knife is this?  https://www.seriouseats.com/images/2015/09/20150921-misen-knife-review-1.jpg ",
+      "answers": [
+        {
+          "point": 0,
+          "label": "Butcher knife"
+        },
+        {
+          "point": 0,
+          "label": "Utility Knife"
+        },
+        {
+          "point": 0,
+          "label": "Boning Knife"
+        },
+        {
+          "point": 1,
+          "label": "Chef's Knife"
         }
       ]
     }
